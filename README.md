@@ -14,6 +14,7 @@
 
 # To run the program
 To run this checkers game, just simply run the main.py. However, VsCode&Pygame should be properly installed for running this program.
+Also, please unzip the two *.zip files. (assets & __pycache__) 
 - 1. Download&Install visual studio code through following site: https://code.visualstudio.com/  
 - 2. Install proper extension of visual studio code (1. Python 2. Python Extended 3. Python Extension Pack)
 - 3. Install pygame (I confirm that this program work well on Lab. Plus, most of Lab's computer already have pygame library, however if your computer doesn't have pygame,
